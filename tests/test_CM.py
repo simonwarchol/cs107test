@@ -1,12 +1,11 @@
 import pytest
 import sys, os.path
-AD_dir = os.path.abspath(os.path.dirname(__file__)) # needed so pytest works correctly
-sys.path.append(AD_dir) # needed so pytest works correctly
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 import numpy as np
-from function_library import function_library
-from CMobject import CMobject
-from FuncObj import FuncObj
+from CMAutoDiff.function_library import function_library
+from CMAutoDiff.CMobject import CMobject
+from CMAutoDiff.FuncObj import FuncObj
 
 # tests for CMobject
 
