@@ -1,10 +1,12 @@
-# Group 27
-[![Build Status](https://travis-ci.com/Cache-Money404/cs107-FinalProject.svg?branch=master)](https://travis-ci.com/Cache-Money404/cs107-FinalProject)
-[![codecov](https://codecov.io/gh/Cache-Money404/cs107-FinalProject/branch/master/graph/badge.svg?token=LEN1NJTXJ6)](https://codecov.io/gh/Cache-Money404/cs107-FinalProject)
+# cs107-FinalProject
+Final project repository for CS107 Group 17
 
+Team members:
+* William Hoback
+* Gerald Arocena
+* Xiaoxuan Liu
+* M. Elaine Cunha
 
-## Junyi Guo
-## Matthew Hawes
-## Jack Scudder
-## Paul Tembo
-## Arthur Young
+[![Build Status](https://travis-ci.com/teamxvii/cs107-FinalProject.svg?token=5WGpytqskq3ZvgrSgy3f&branch=master)](https://travis-ci.com/teamxvii/cs107-FinalProject)
+
+[![codecov](https://codecov.io/gh/teamxvii/cs107-FinalProject/branch/master/graph/badge.svg?token=VVBQSYY46I)](https://codecov.io/gh/teamxvii/cs107-FinalProject)
